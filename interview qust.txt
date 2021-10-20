@@ -1,0 +1,20 @@
+How you selected Test cases for Regression Testing?
+What are the difficulties that you faced in Object identification
+What are the technical limitations while using Selenium ?
+Explain how you can use recovery scenario with Selenium?
+How many test script you have written in one day
+Rate your self in automation testing
+Notice period
+During scrum/end/before beginning
+ALM full form
+Grand is DCL statement true, false
+3.access specifiers of data members in interface.
+what is abstraction.how it is acheived in java
+pom class.how to design it.
+How you give points to userstories?
+Which continous integration tool you worked?
+. How do you load data from excel? What is the steps for retrieving the data?
+Methods to get Primitive datatypes
+what is bench marking 
+.what are the uses of SRS
+what is sandwich testing
